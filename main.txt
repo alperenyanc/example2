@@ -6,3 +6,4 @@ c2 f4
 MAIN C2
 F A comment 1
 FB C1
+FC C1
