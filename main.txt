@@ -3,8 +3,4 @@ f3 c3
 f1 c3s
 comment 2 f2
 c2 f4
-<<<<<<< HEAD
 MAIN C2
-=======
-FZ C1
->>>>>>> parent of cb33be7... FZ C2
