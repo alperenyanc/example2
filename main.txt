@@ -21,3 +21,4 @@ FZ C1
 ### firstly 
 FT c1 some code ss
 test1
+f B c 3
